@@ -1,1 +1,1 @@
-# gatsby-onepage-tarvel
+# gatsby-onepage-classic-1

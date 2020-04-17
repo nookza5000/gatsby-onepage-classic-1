@@ -1,5 +1,1 @@
-# gatsby-onepage-classic-1
-
-## Deploy 6
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/natdanaiw08/gatsby-onepage-classic-1)
+IyBnYXRzYnktb25lcGFnZS1jbGFzc2ljLTEKCiMjIERlcGxveSA4CgpbIVtEZXBsb3kgdG8gTmV0bGlmeV0oaHR0cHM6Ly93d3cubmV0bGlmeS5jb20vaW1nL2RlcGxveS9idXR0b24uc3ZnKV0oaHR0cHM6Ly9hcHAubmV0bGlmeS5jb20vc3RhcnQvZGVwbG95P3JlcG9zaXRvcnk9aHR0cHM6Ly9naXRodWIuY29tL25hdGRhbmFpdzA4L2dhdHNieS1vbmVwYWdlLWNsYXNzaWMtMSkK
